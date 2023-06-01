@@ -3,10 +3,10 @@
 			                               👋 Hi, I’m @BLACKPANTHER11544
 
 
-- I am LAzy 'zZZZZZZzzzZZZzzzZZZZ'
+- I am from djdoll era 'zZZZZZZzzzZZZzzz'
 - 🌱 As for now i am doing mern. 
-- I love to play football(Soccer) , and i'm a liverpool fan
-- Reach me at my instagram 'i_am_immmmposter'
+- I love to play football(Soccer) , and i'm a Man City fan
+- Reach me on my instagram 'i_am_immmmposter'
 
 <!---
 BLACKPANTHER11544/BLACKPANTHER11544 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
