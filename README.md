@@ -1,10 +1,10 @@
 
                                                   
-#			                              👋 Hi, I’m @BLACKPANTHER11544
+  # Hi, I’m @BLACKPANTHER11544 👋 
 
 
 - I am from djdoll era 'zZZZZZZzzzZZZzzz'
-- 🌱 As for now i am doing mern. 
+- 🌱 As for now i am doing MERN. 
 - I love to play football(Soccer) , and i'm a Man City fan
 - Reach me on my instagram 'i_am_immmmposter'
 
