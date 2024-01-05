@@ -1,6 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is BLACKPANTHER
 ====================================================================================================================================
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=BLACKPANTHER11544&color=ff69b4" alt="BLACKPANTHER11544" /> </p>
+
 Web Developer
 -------------
 
@@ -30,4 +32,3 @@ I am a Web Developer with 10 months of experience and a good hands on technologi
 
 <a href="http://www.github.com/BLACKPANTHER11544"><img src="https://github-readme-stats.vercel.app/api?username=BLACKPANTHER11544&show_icons=true&hide=issues,&count_private=true&title_color=64748b&text_color=14b8a6&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="BLACKPANTHER11544's GitHub stats" /></a>
 
-<a href="http://www.github.com/BLACKPANTHER11544"><img src="https://github-readme-streak-stats.herokuapp.com/?user=BLACKPANTHER11544&stroke=14b8a6&background=0f172a&ring=64748b&fire=64748b&currStreakNum=14b8a6&currStreakLabel=64748b&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
