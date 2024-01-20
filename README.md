@@ -10,7 +10,7 @@ I am a Web Developer with 10 months of experience and a good hands on technologi
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [blackpanthergithub@gmail.com](mailto:blackpanthergithub@gmail.com)
-* 🚀  I'm currently working on [Incomplete\_Project](https://github.com/BLACKPANTHER11544/DSA)
+* 🚀  I'm currently working on [DSA](https://github.com/BLACKPANTHER11544/DSA)
 * 🧠  I'm learning LLM
 * 🤝  I'm open to collaborating on Anything related to JavaScript and Reactjs
 
